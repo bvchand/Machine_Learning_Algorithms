@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/12fD6Dt5Awk4TtOEPPNpVfCLNR11ggWhT
 """
 
-!pip install textacy
-
 import nltk
 from nltk.corpus import stopwords
 from nltk.corpus import wordnet
